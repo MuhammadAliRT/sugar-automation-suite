@@ -1,0 +1,6 @@
+"Field Name","Strategy","Path","Value","RecordView","field Type"
+"name","name","name","Ali","//span[@data-fieldname='name']/span/div","input"
+"website","cssSelector","input[name=website]","http://www.aliexpress.com","//span[@data-fieldname='website']/span/a","input"
+"industry","cssSelector","span[data-fieldname=industry] a","Recreation","//span[@data-fieldname='industry']/span/div","select","//ul/li/div[text()="
+"type","xpath","//div[@data-name='account_type']/span/span/div/a","Investor","//span[@data-fieldname='account_type']/span/div","select","//ul/li/div[text()="
+"phone","cssSelector","div.drawer.active input[name=phone_office]","03334747471","//span[@data-fieldname='phone_office']/span/div","input"
